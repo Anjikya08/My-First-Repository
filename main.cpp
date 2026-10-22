@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-    cout << "my first open source journey" << endl;
+    cout << "test of pull" << endl;
     return 0;
 }
